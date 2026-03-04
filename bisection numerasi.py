@@ -24,4 +24,4 @@ def bisection(a, b, eps):
     return (a + b) / 2
 
 
-print(bisection(0.5, 0.9, 0.01))
+print(bisection(0.6, 0.8, 0.01))
